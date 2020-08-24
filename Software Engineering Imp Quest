@@ -1,0 +1,84 @@
+*Software Engineering Interview Questions:-
+-------------------------------------------------
+1) What is SDLC?
+ans-> SDLC stands for Software Development Life Cycle. It defines the step by step apprach for the developmen of software.
+SDLC involves the following phases:-
+---------------------------------------
+Requirement Analysis--->Design----->Development------>Testing----->Maintenance
+---------------------------------------------------------------------------------
+
+2.)What are various models availale in SDLC ?
+Ans-> There are several models available in SDLC for efficiently carrying out software development.
+Some of  the models include the Waterfall model, V-model, Agile model, etc
+
+3) Explain term Baseline?
+Ans-> A baseline is a milestone on the project which is usually defined by the project manager . Baselines are used to track the 
+progress of the project from time to time to access the overall health of the project.
+
+4.)What are the responsibilities of the software project manager?
+A Software project manager is responsible for driving the project towards successfull completion. It is the responsibility of the software project manager to make sure the entire team follows a systematic and well defined approach towards the development of software.
+He is also respnsible for folowing:-
+. project Planning
+. Project status tracking
+. Resource Management
+. risk management
+. project delivery within time and budget
+
+5.) What is Cohesion ?
+Ans-> Cohesion is the degree to which the elements of a module are inter-related to one another. It is like an internal glue that binds the elements of a module together.Good software has high level of cohesion.
+
+6.) What is Coupling?
+Ans:- Coupling is the degree of interdependence between the modules. Good software has low levels of coupling.
+
+7.)Explain the concept of modularization?
+Ans:- Modularization is used to divide software into multiple components or modules.Each module is worked upon by an independent development and testing team. The final result would be to combine multiple modules into a single working component.
+
+8.)What is Software Configuration Management ?
+Ans-> Software configuration management is the process of tracking and controlling changes that occur during the software development.
+
+9.) What are the various phases of SDLC?
+Ans-> Requirement analysis
+      Design
+      Development
+      Testing 
+      Maintenance
+  
+10.)Provide example of Project Management tools.
+Ans-> Gantt Chart
+  Checklists
+  Status reports
+  Histogram
+  Microsoft Project
+  
+11.)What are CASE tools ?
+Ans-> CASE stands for COMPUTER-AIDED Software Engineering tools that are utilized to support and acclerate the various activities of the Software Development Lifecycle.
+
+12.)What is Black Box Testing ?
+Ans-> Black box testing involves testing the application without the knowledge of the internal structure or code implementation. Testers would only bother about the functionality of the software rather than code execution in the backend.
+
+13.) What is white box testing ?
+Ans-> White box testing is the testing of the software with the knowledge of the internal code structurev or code execution in the backend. This test is generally performed by the developers who has written the code in the form of unit tests.
+
+14.) What is a Feasibility study ?
+Ans-> A feasibility study is conducted on a software product to assess how practical and beneficial is the development of the software product to the organization.
+
+15.) How can you measure Project execution ?
+Ans-> Project execution status can be monitored using the following techniques.
+>Status  Reports > milestone checklists > activity monitoring
+
+18.) Difference between Quality Assurance and Quality Control ?
+Ans-> Quality Assurance is ensuring that the delivered software has the least number of defects possible. Quality contol is the process of ensuring that the quality of the product is maintained in gthe long run.
+Quality Assurance is done by the testing team of the project while quality control is usually done by a dedicated support team, who is responsible for the quality of the product even if the project is under maintenance phase of software engineering.
+
+
+
+
+
+
+
+
+
+
+
+
+

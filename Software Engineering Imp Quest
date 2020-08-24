@@ -71,6 +71,85 @@ Ans-> Quality Assurance is ensuring that the delivered software has the least nu
 Quality Assurance is done by the testing team of the project while quality control is usually done by a dedicated support team, who is responsible for the quality of the product even if the project is under maintenance phase of software engineering.
 
 
+Q #18) What is the difference between Quality Assurance and Quality Control?
+
+Answer: Quality Assurance is ensuring that the delivered software has the least number of defects possible. Quality Control is the process of ensuring that the quality of the product is maintained in the long run.
+
+Quality Assurance is done by the testing team of the project while Quality Control is usually done by a dedicated support team, who is responsible for the quality of the product even if the product is under the maintenance phase of software engineering.
+
+Also, Read => Quality Assurance Vs Quality Control
+
+Q #19) What is the difference between Verification and Validation?
+
+Answer: Verification is the process of ensuring that the product is built right, from a process and standards perspective.
+
+Validation is the process of ensuring that we build the right product, from a customer perspective. Verification is a static testing methodology wherein the product is tested without executing the code, while validation is a dynamic testing methodology.
+
+Worth Reading => Complete Study of Verification and Validation
+
+Q #20) Which SDLC model is the best to choose for a Software Product?
+
+Answer: There are no rules as such stating which specific SDLC model has to be used for a software product. It depends on the type of software project being built and the organization's policies & procedures.
+
+Q #21) What do you mean by Software Scope?
+
+Answer: Software scope is the list of features provided by the developed software. Based on the scope of the software, estimations such as time allocation, budget and resource allocation can be done.
+
+ Q #22) What is SRS?
+
+Answer: SRS stands for Software Requirement Specification (SRS) document. It is a document to capture all the functional and non-functional requirements of a product. Not all SDLC models need to follow SRS documents, some models capture requirements in the form of user stories, whereas some models in the form of excel sheets, etc.
+
+ Q #23) What is the SDLC model that you have used in your previous project?
+
+Answer: The answer to this question depends on the experience of an interview candidate. If the candidate answers the SDLC model to be the Waterfall model, then the interviewer will start asking questions about the Waterfall model and if he answers it to be Agile, then the interviewer will start asking terms related to Agile methodology such as Scrum, Sprint, etc.
+
+ Q #24) Explain the Waterfall model in detail.
+
+Answer: The waterfall model is a sequential model in which the next phase starts only after the first phase is completed. For example, the testing phase will start only after the development phase is complete, the maintenance phase will start only after the testing phase is complete.
+
+Below are the various phases involved in the waterfall model. Please note that the number of phases and sequences of phases may vary from one project to another.
+
+Requirements
+Design
+Coding
+Testing
+Maintenance
+ a) Requirements: This is the phase where the system to be developed is documented in the form of Software Requirement Specification (SRS) document. This is the most important phase of SDLC as a clear understanding of requirements from the client will reduce the rework in the following phases.
+
+b) Design: This is the phase where the architecture of the system to be developed is finalized. Architecture can be in the form of a high-level design or a low-level design. Architecture must also include the hardware and software specifications of the system to be developed.
+
+c) Coding: This is the phase where the code for the system to be developed is written. Unit Testing and Integration Testing must be performed by the developers at this stage before deploying the code for testing.
+
+d) Testing: This is the phase where the product developed is tested by an independent testing team to validate if it meets the requirements in the Software Requirement Specification (SRS). Defects raised at this phase need to be fixed before providing sign off on the product.
+
+e) Maintenance: This phase comes once the testing phase is complete. It takes care of any production issues that may arise after the product is delivered to the customer. The duration of the maintenance phase differs from project to project and one organization to another.
+
+Below is the diagram to depict the waterfall model in the form of phases.
+
+Waterfall Model
+
+Q #25) Explain V-Model in detail.
+
+Answer: V-Model stands for the verification and validation model. V-model is an addition to the waterfall model, in the sense that V-model is also a sequential model. In V-model, each phase of development is associated with a corresponding testing phase.
+
+The image given below depicts the various phases involved in V-model.
+
+V Model
+
+The left side of the model is the Software Development Lifecycle while the right side of the model is Software Testing Lifecycle. As the phases form the shape of the letter ‘V’, this model is called V-Model.
+
+Explanation:
+
+Within the V-Model, SDLC is to be interpreted from top to bottom, while STLC is to be interpreted from the bottom to the top. Initially, requirements are gathered to document the system to be developed as per the client requirements. The testing team develops the system test plan based on the requirements.
+
+Then comes the high-level design and the detailed level design phases where the architecture of the system is prepared. The testing team prepares the Integration Test plan in these phases. Once the coding is complete on SDLC, STLC will start from unit testing, followed by integration testing and System testing.
+
+Conclusion
+We hope this article will help you crack any Software Engineer interview successfully.
+
+Software Engineering is the application of a systematic, disciplined and quantifiable approach to the development, operation, and maintenance of software.
+There are no hard and fast rules as such on the type of Software Engineering interview questions asked by interviewers. It varies from organization to organization and the type of role the interview is conducted for.
+
 
 
 

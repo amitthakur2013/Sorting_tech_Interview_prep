@@ -15,3 +15,5 @@ Selection Bubble Insertion Quick
 Not in Place:-
 ---------------------
 Merge Sort
+
+this is sorting
